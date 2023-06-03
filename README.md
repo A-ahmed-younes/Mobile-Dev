@@ -1,0 +1,2 @@
+# Mobile Dev [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,gradle)](https://skillicons.dev) 
+This is a collection of assignments and practice exercises of mobile development for the "Mobile Application Development" module at ENSET.

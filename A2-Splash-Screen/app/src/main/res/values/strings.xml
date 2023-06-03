@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compte</string>
+    <string name="welcome_text">Les information du compte de l\'utilisateur</string>
+    <string name="user_name">Nom d\'ulisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">s\'identifier</string>
+    <string name="go_back">retourner</string>
+</resources>

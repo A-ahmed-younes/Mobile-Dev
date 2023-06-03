@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Splash-Screen</string>
+    <string name="welcome_text">User information</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="go_back">go back</string>
+</resources>
